@@ -15,7 +15,7 @@ __Brent Nixon, Dec. 2017__
 * https://brentnixon.github.io/WrangleOSM/ 
 
 
-### To more interaction, download the repository and open the notebook: 
+### For more interaction, download the repository and open the notebook: 
 * Wrangle_OSM_BNixon_jn.ipynb
 
 
