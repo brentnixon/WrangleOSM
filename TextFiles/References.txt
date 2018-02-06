@@ -1,0 +1,26 @@
+Resources Used in Project:
+
+Udacity Case Study Helper
+- from Udacity Data Wrangling Course
+
+Carl Ward's sample project for the Udacity Open Street Map Data Wrangling Project
+- https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md
+
+http://sebastianraschka.com/Articles/2014_ipython_internal_links.html#top 
+- creating internal links
+
+http://wiki.openstreetmap.org/wiki/Map_Features
+- explanation of OSM feature types
+
+http://wiki.openstreetmap.org/wiki/TIGER
+- explanation of TIGER data source and feature types
+
+http://wiki.openstreetmap.org/wiki/USGS_GNIS
+- explanation of GNIS data source and feature types
+
+https://gist.github.com/swwelch/f1144229848b407e0a5d13fcb7fbbd6f
+- schema for SQL tables, from Udacity
+
+https://alvinalexander.com/android/sqlite-script-read-execute-how
+- explanation for how to execute a SQL file
+

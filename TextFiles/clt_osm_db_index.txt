@@ -1,0 +1,34 @@
+nodes:
+    - id (primary key)
+    - lat 
+    - lon
+    - user
+    - uid 
+    - version
+    - changeset
+    - timestamp 
+
+nodes_tags:
+    - id (foreign key, nodes)
+    - key
+    - value
+    - type 
+    
+ways:
+    - id (primary key)
+    - user
+    - uid
+    - version
+    - changeset
+    - timestamp
+
+ways_tags:
+    - id (foreign key, ways)
+    - key
+    - value
+    - type
+
+ways_nodes:
+    - id (foreign key, ways)
+    - node_id (foreign key, nodes (id))
+    - position

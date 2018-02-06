@@ -1,0 +1,11 @@
+For this project, I chose to examine OSM data from the southeast part of Charlotte, North Carolina, which is where I grew up. 
+
+Navigate to this link to examine the bounding box describing the area I worked with: http://www.openstreetmap.org/relation/177415#map=11/35.2033/-80.8401
+
+Charlotte is an interesting city because it has a wide variety of urbanism. There is a dense urban core with high-rises, semi-urban mixed residential and commercial areas, sub-urban residential areas, and low-density sprawl. For a mapping project, there would certainly be a variety of features and idiosyncrasies to sort out. 
+
+
+
+
+
+
