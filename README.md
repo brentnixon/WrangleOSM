@@ -11,8 +11,11 @@ __Brent Nixon, Dec. 2017__
 
 >Charlotte is an interesting city because it has a wide variety of urbanism. There is a dense urban core with high-rises, semi-urban mixed residential and commercial areas, sub-urban residential areas, and low-density sprawl. For a mapping project, there would certainly be a variety of features and idiosyncrasies to sort out. 
 
-### To get a closer look at this project, download and open:
-* ### ProjectDocument.html
+### To get a closer look at this project, go to:
+* https://brentnixon.github.io/WrangleOSM/ 
 
-or 
-* ### Wrangle_OSM_BNixon_jn.ipynb
+
+### To more interaction, download the repository and open the notebook: 
+* Wrangle_OSM_BNixon_jn.ipynb
+
+
